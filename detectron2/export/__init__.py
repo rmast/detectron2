@@ -17,7 +17,7 @@ else:
 
 
 # TODO: Update ONNX Opset version and run tests when a newer PyTorch is supported
-STABLE_ONNX_OPSET_VERSION = 19
+STABLE_ONNX_OPSET_VERSION = 17
 
 
 def add_export_config(cfg):
